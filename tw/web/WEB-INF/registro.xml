@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+  <Administrador>
+    <Adm id="Diego" password="diego" nombre="Diego" />
+  </Administrador>
+  <Alumno>
+  </Alumno>
+  <Maestro>
+  </Maestro>
+</ROOT>

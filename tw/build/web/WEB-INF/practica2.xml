@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+  <Evento id="345057806" Creador="LuisGestor" Tipo="Concierto" Fecha="03122018" Hora="12:45" Lugar="Auditorio" Cupo="499" Telefono="5545696641" Correo="luiseg98@hotmail.com">XV</Evento>
+  <Evento id="280413032" Creador="LuisGestor" Tipo="Privado" Fecha="12345678" Hora="12:25" Lugar="lugarcito" Cupo="999" Telefono="5545898989" Correo="luiseg98@hotmail.com">Graduacion</Evento>
+  <Evento id="424663221" Creador="DiegoGestor" Tipo="Beneficiencia" Fecha="12457894" Hora="12:48" Lugar="Auditorio" Cupo="497" Telefono="5545898989" Correo="luiseg98@hotmail.com">XV</Evento>
+  <Evento id="472103089" Creador="DiegoGestor" Tipo="Cultural" Fecha="12345678" Hora="12:47" Lugar="lugarcito" Cupo="997" Telefono="5545696641" Correo="luiseg98@hotmail.com">Partido</Evento>
+  <Evento id="288780068" Creador="LuisGestor" Tipo="Beneficiencia" Fecha="12345678" Hora="12:25" Lugar="Su" Cupo="499" Telefono="5545898989" Correo="luiseg98@hotmail.com">XV</Evento>
+  <Evento id="412346846" Creador="LuisGestor" Tipo="Informativo" Fecha="12345678" Hora="12:45" Lugar="lugarcito" Cupo="499" Telefono="5545696641" Correo="luiseg98@hotmail.com">Graduacion</Evento>
+  <Evento id="527624411" Creador="LuisGestor" Tipo="Deportivo" Fecha="03122018" Hora="12:25" Lugar="Auditorio" Cupo="499" Telefono="5545696641" Correo="luiseg98@hotmail.com">Graduacion</Evento>
+</ROOT>
+
